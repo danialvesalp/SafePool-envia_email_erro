@@ -1,0 +1,11 @@
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\bin\Release\Envia_Email_Erro.exe.config
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\bin\Release\Envia_Email_Erro.exe
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\bin\Release\Envia_Email_Erro.pdb
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\bin\Release\Envia_Email_Erro.xml
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\obj\Release\Envia_Email_Erro.vbprojResolveAssemblyReference.cache
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\obj\Release\Envia_Email_Erro.Form1.resources
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\obj\Release\Envia_Email_Erro.Resources.resources
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\obj\Release\Envia_Email_Erro.vbproj.GenerateResource.Cache
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\obj\Release\Envia_Email_Erro.exe
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\obj\Release\Envia_Email_Erro.xml
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email_Erro\Envia_Email_Erro\obj\Release\Envia_Email_Erro.pdb
